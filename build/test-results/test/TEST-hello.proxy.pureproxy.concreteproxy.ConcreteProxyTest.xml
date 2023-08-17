@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.proxy.pureproxy.concreteproxy.ConcreteProxyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-17T07:25:11" hostname="johyeonhwaui-MacBookPro.local" time="0.1">
+  <properties/>
+  <testcase name="addProxy()" classname="hello.proxy.pureproxy.concreteproxy.ConcreteProxyTest" time="0.1"/>
+  <system-out><![CDATA[16:25:11.906 [Test worker] INFO hello.proxy.pureproxy.concreteproxy.code.TimeProxy - TimeDecorator 실행
+16:25:11.910 [Test worker] INFO hello.proxy.pureproxy.concreteproxy.code.ConcreteLogic - concreteLogic 실행
+16:25:11.910 [Test worker] INFO hello.proxy.pureproxy.concreteproxy.code.TimeProxy - TimeDecorator 종료 resultTime=0ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
